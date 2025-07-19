@@ -43,7 +43,7 @@ This agent team helps prepare by:
 
 ---
 
-## 📸 Demo (screenshot/video placeholder)
+## 📸 Demo (screenshot)
 
 <p align="center"><img src="../assets/crewai.PNG" width="1920"/></p>
 
