@@ -14,9 +14,9 @@
 
 Each project is contained in its own directory with documentation, code, and (optional) screenshots or videos.
 
-<p align="center"><img src="assets/n8n.PNG" width="1920"/></p>
-<p align="center"><img src="assets/crewai.PNG" width="1920"/></p>
-<p align="center"><img src="assets/langGraph.PNG" width="1920"/></p>
+<p align="center"><img src="assets/n8n.PNG" width="1000"/></p>
+<p align="center"><img src="assets/crewai.PNG" width="1000"/></p>
+<p align="center"><img src="assets/langGraph.PNG" width="1000"/></p>
 ---
 
 ## 🎯 Project Goals
