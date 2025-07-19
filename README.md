@@ -37,8 +37,6 @@ Each project is contained in its own directory with documentation, code, and (op
 | Tool Integration     | High (OpenAI, Exa)  | Built-in + REST APIs   | High (LangChain tools)   |
 | Dev Complexity       | Moderate            | Very Low               | Advanced (node/edge setup) |
 
-See [`comparison.md`](./comparison.md) for deeper analysis.
-
 ---
 
 ## 🛠️ Technologies Used
