@@ -54,5 +54,5 @@ Example 2:
 
 ## 📸 Demo (screenshot)
 
-<p align="center"><img src="assets/langGraph.PNG" width="1920"/></p>
+<p align="center"><img src="../assets/langGraph.PNG" width="1920"/></p>
 
