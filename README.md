@@ -10,11 +10,11 @@
 |-------|-----------|-------------|
 | ✅ `crewai-agent/` | CrewAI | Multi-agent meeting prep assistant |
 | ✅ `n8n-agent/`    | N8N    | Weather chatbot with email automation |
-<p align="center"><img src="assets/n8n.PNG" width="1920"/></p>
 | ✅ `langgraph-agent/` | LangGraph | Emotion-aware conversational agent |
 
 Each project is contained in its own directory with documentation, code, and (optional) screenshots or videos.
 
+<p align="center"><img src="assets/n8n.PNG" width="1920"/></p>
 ---
 
 ## 🎯 Project Goals
