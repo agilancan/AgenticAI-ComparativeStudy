@@ -40,7 +40,7 @@ This agent was built using the **N8N** visual automation platform to create a co
 
 ## 🖼️ Demo (screenshot placeholder)
 
-<p align="center"><img src="assets/n8n.PNG" width="800"/></p>
+<p align="center"><img src="../assets/n8n.PNG" width="800"/></p>
 
 ---
 
