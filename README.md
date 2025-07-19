@@ -1,4 +1,4 @@
-**AgentForge** is a portfolio-ready showcase of three intelligent agents built using different agentic AI frameworks: **CrewAI**, **N8N**, and **LangGraph**. This project explores how each framework supports task automation, decision-making, and agent collaboration in unique ways.
+**AgenticAI-ComparativeStudy** is a portfolio-ready showcase of three intelligent agents built using different agentic AI frameworks: **CrewAI**, **N8N**, and **LangGraph**. This project explores how each framework supports task automation, decision-making, and agent collaboration in unique ways.
 
 > 💡 Built as part of a comparative assignment to demonstrate the practical strengths, limitations, and capabilities of agent frameworks.
 
