@@ -45,6 +45,6 @@ This agent team helps prepare by:
 
 ## 📸 Demo (screenshot/video placeholder)
 
-<p align="center"><img src="assets/Screenshot 2025-07-16 185827.png" width="1920"/></p>
+<p align="center"><img src="../assets/crewai.PNG" width="1920"/></p>
 
 ---
